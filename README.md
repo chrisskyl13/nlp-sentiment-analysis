@@ -23,3 +23,6 @@ The goal is to classify reviews as positive or negative by evaluating four disti
 * Performance evaluation using Accuracy and F1-Score.
 * Visualization of results through Confusion Matrices.
 * Comparative metrics table for all four approaches.
+
+##How to Use
+Download the dataset from here: [amazon_reviews_dataset.zip](https://github.com/chrisskyl13/nlp-sentiment-analysis/releases/download/Initial_Dataset/archive.2.zip)
